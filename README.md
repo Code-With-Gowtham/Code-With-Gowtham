@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Gowtham.P — A Passionate Web Developer from India</h2>
+<h2 align="center">Hi 👋, I'm Gowtham.P — A Passionate Full stack Developer from India</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F76D6D&width=435&lines=Full+Stack+Web+Developer;Open+Source+Contributor;Always+Learning+🚀" />
@@ -20,8 +20,7 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Code-With-Gowtham&layout=compact&langs_count=6&theme=radical&border_radius=10&hide_border=false" height="170" />
-
+  
   <img src="https://streak-stats.demolab.com?user=Code-With-Gowtham&theme=radical&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="170" />
 </div>
 
