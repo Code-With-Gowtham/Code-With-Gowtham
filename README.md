@@ -10,9 +10,9 @@
 <img align="right" height="170" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### 🧠 About Me
-- 🌱 Currently learning: **MERN Stack | DevOps | Cloud**
+- 🌱 Currently learning: **FULL Stack | React | Cloud**
 - 🛠️ Working on: **Full-stack projects using React, Node, MongoDB**
-- 💬 Ask me about: **JavaScript, React, Node.js, Git**
+- 💬 Ask me about: **JavaScript, React, Git**
 - 📫 Reach me at: `gowthamvicky2526@gmail.com`
 - 🎯 2025 Goal: **Contribute to impactful projects & grow as a developer**
 
@@ -20,11 +20,9 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASWINNIDESH&show_icons=true&include_all_commits=true&count_private=true&theme=radical&border_radius=10&hide_border=false" height="170" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ASWINNIDESH&layout=compact&langs_count=6&theme=radical&border_radius=10&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Code-With-Gowtham&layout=compact&langs_count=6&theme=radical&border_radius=10&hide_border=false" height="170" />
 
-  <img src="https://streak-stats.demolab.com?user=ASWINNIDESH&theme=radical&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="170" />
+  <img src="https://streak-stats.demolab.com?user=Code-With-Gowtham&theme=radical&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="170" />
 </div>
 
 ---
@@ -64,7 +62,7 @@
 
 ### 📬 Connect with Me
 <div align="left">
-  <a href="https://www.instagram.com/g_o_w_t_h_a_m_v_i_c_k_y?igsh=MTU4bWhobTJoejhpMw==" target="_blank">
+  <a href="https://www.instagram.com/gowthamx_?igsh=MTU4bWhobTJoejhpMw%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="mailto:gowthamvicky2526@gmail.com" target="_blank">
@@ -75,9 +73,3 @@
   </a>
 </div>
 
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ASWINNIDESH&theme=radical&no-frame=true&row=1&margin-w=10" />
-</p>
